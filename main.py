@@ -33,9 +33,9 @@ def predict():
         (name, prob) = model.predict(fileName)
         print(name, prob)
         if name == 'NORMAL':
-            prob = f'The probabilty of having no Pneumonia is {str((np.round((1 - float(prob)), 3)*100))}%'
+            prob = f'The probabilty of having no Pneumonia is {str(1-prob)[:5]}%'
         elif name == 'PNEUMONIA':
-            prob = f'The probabilty of having Pneumonia is {str(np.round(prob, 3)*100)}%'
+            prob = f'The probabilty of having Pneumonia is {str(prob)[:5]}%'
 
         return render_template("results.html", predicted_name=name, probability=prob, url=fileName)
     return render_template('index.html')
