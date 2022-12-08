@@ -9,5 +9,6 @@ of deep learning which focuses on processing images. In the field of health care
 we have many systems which can assist doctor while diagnosing different type of 
 diseases. In this project we worked on Pediatric Chest X-ray classification which can 
 classify whether the X-ray image infected by pneumonia or not. 
+![](https://github.com/AbdulManaf12/Pediatric-Chest-Pneumonia-Classification-System/blob/main/static/webpage.gif)
 
 you can also visit on our deployed website: http://abdulmanaf12.pythonanywhere.com/
