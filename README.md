@@ -1,8 +1,8 @@
 # Pediatric-Chest-Pneumonia-Classification-System-Using-GAN
 
 Machine learning and deep learning are the branch of artificial intelligence that has had 
-exponential growth in recent years. By using these I can work with numbers, text, 
-images and so many other things. At this time, I have a lot of contemporary successful 
+exponential growth in recent years. By using these we can work with numbers, text, 
+images and so many other things. At this time, we have a lot of contemporary successful 
 examples that have been implemented such as: autonomous Vehicles, chat bots, even 
 now I generating new data from previous. Computer vision is one of the sub fields 
 of deep learning which focuses on processing images. In the field of health care system, 
