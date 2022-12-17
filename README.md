@@ -1,4 +1,4 @@
-# Pediatric-Chest-Pneumonia-Classification-System
+# Pediatric-Chest-Pneumonia-Classification-System-Using-GAN
 
 Machine learning and deep learning are the branch of artificial intelligence that has had 
 exponential growth in recent years. By using these we can work with numbers, text, 
@@ -12,3 +12,5 @@ classify whether the X-ray image infected by pneumonia or not.
 ![](https://github.com/AbdulManaf12/Pediatric-Chest-Pneumonia-Classification-System/blob/main/static/webpage.gif)
 
 you can also visit on our deployed website: http://abdulmanaf12.pythonanywhere.com/
+
+dataset: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
