@@ -1,4 +1,4 @@
-# Pediatric-Chest-Pneumonia-Classification-System-Using-GAN
+# Pediatric Chest Pneumonia Classification: Leveraging Traditional CNN with GAN for Data Balancing
 
 Machine learning and deep learning are the branch of artificial intelligence that has had 
 exponential growth in recent years. By using these we can work with numbers, text, 
