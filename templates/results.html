@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
 
-    <title>Pediatric Chest Pneumonia Classification</title>
+    <title>Result - Pediatric Chest Pneumonia Classification</title>
 
     <!-- Google Fonts -->
     <link
@@ -55,12 +55,12 @@
         </header>
         <!-- End Header -->
 
-    
+
       <!-- ======= result Section ======= -->
       <section id="result" class="result-outer">
         <!-- Result Section -->
         <div class="result">
-            <img src="{{url}}" alt="image" class="image-result">
+            <img src="{{ url_for('static',filename='image.png') }}" alt="image" class="image-result">
             <p><b>STATUS: </b> {{predicted_name}}</p> <br>
             <p>{{probability}}</p> <br>
         </div>
